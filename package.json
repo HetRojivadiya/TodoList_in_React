@@ -2,7 +2,7 @@
   "name": "3.todolist",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://HetRojivadiya.github.io",
+  "homepage": ".",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.17.0",
